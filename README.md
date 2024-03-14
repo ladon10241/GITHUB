@@ -32,3 +32,7 @@
 ![image](https://github.com/ladon10241/GITHUB/assets/108235957/6808cbdc-2357-48f5-836d-b31c8ccf22cc)
 # 7. Посмотреть статус текущего репозитория. 
 ![image](https://github.com/ladon10241/GITHUB/assets/108235957/541678ee-fda9-4f20-8080-884274767b7d)
+# 8. Добавить файл
+![image](https://github.com/ladon10241/GITHUB/assets/108235957/c5ba2c98-f29a-4097-bf21-444b00ba3330)
+![image](https://github.com/ladon10241/GITHUB/assets/108235957/06070a54-f2cd-4e02-af23-c3471acb54a6)
+
