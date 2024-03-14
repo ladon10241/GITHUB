@@ -30,3 +30,5 @@
 ![image](https://github.com/ladon10241/GITHUB/assets/108235957/c607965a-76d9-4193-a24c-cc13e80b5c2f)
 
 ![image](https://github.com/ladon10241/GITHUB/assets/108235957/6808cbdc-2357-48f5-836d-b31c8ccf22cc)
+# 7. Посмотреть статус текущего репозитория. 
+![image](https://github.com/ladon10241/GITHUB/assets/108235957/541678ee-fda9-4f20-8080-884274767b7d)
