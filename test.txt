@@ -1,5 +1,2 @@
-start
-wasd
-return
-end
-qwerty
+
+wasdddsd
